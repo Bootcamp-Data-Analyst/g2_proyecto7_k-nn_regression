@@ -3,7 +3,7 @@ Para este proyecto vamos a utilizar un dataset que podamos abordar como un probl
 
 roles:
 
-Scrubmaster-Enrique
+Scrum master-Enrique
 
 Data analyst - Alejandro
 
