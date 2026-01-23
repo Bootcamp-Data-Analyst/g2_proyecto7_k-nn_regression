@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Variables sensibles
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Resultados / datos (si no quieres subirlos)
+data/
+outputs/
