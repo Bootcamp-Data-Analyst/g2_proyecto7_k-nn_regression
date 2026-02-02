@@ -8,3 +8,6 @@ Scrum master-Enrique
 Data analyst - Alejandro
 
 Product owner - Rocio L.
+
+Instrucciones para el proyecto:
+  Abrir el notebook y subir los 2 archivos css para que el modelo funcione
