@@ -12,5 +12,15 @@ Data analyst - Alejandro
 
 Product owner - Rocio L.
 
+Metodología
+Objetivo del proyecto
+Tecnologías usadas
+Estructura de los archivos
+Dataset usado
+Limpieza y EDA (hacer un resumen de lo hecho)
+Entrenamiento (resumen)
+Dashboard interativo (powerbi)
+Conclusiones (basándonos en los objetivos del proyecto)¨
+
 Instrucciones para el proyecto:
   Abrir el notebook y subir los 2 archivos css para que el modelo funcione
